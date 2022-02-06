@@ -1,0 +1,3 @@
+rootProject.name = "delreq"
+include ':app', ':flatdialoglibrary'
+include ':app'
