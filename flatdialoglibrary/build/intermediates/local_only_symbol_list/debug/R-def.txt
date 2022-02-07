@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color white
+drawable cancel
+drawable checked
+drawable dialog_shape
+drawable edit_text_background
+drawable exclamation_mark
+drawable first_button_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable second_button_background
+drawable third_button_background
+id first_button
+id first_edit_text
+id icon
+id large_edit_text
+id listview_background_shape
+id main_frame
+id second_button
+id second_edit_text
+id subtitle
+id third_button
+id title
+layout custom_dialog
+string app_name
